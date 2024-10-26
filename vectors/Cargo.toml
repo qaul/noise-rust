@@ -7,11 +7,11 @@ build = "build.rs"
 
 [dev-dependencies]
 hex = "0.4.3"
-lazy_static = "1.4"
+lazy_static = "1.5"
 noise-protocol = { path = "../noise-protocol" }
 noise-ring = { path = "../noise-ring" }
 noise-rust-crypto = { path = "../noise-rust-crypto" }
-rayon = "1.7"
-regex = "1.7"
+rayon = "1.10"
+regex = "1.11"
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
