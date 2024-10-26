@@ -1,3 +1,11 @@
+# noise-rust-crypto 0.6.3
+
+* Update x25519-dalek dependency to 2.0.1
+
+# noise-protocol 0.2.1
+
+* Update arrayvec dependency to 0.7.6
+
 # noise-protocol 0.1.4
 
 * Update arrayvec dependency to 0.7.2
